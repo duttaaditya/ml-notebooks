@@ -1,0 +1,3 @@
+[submodule "flight-pred"]
+	path = flight-pred
+	url = https://github.com/duttaaditya/ml-notebooks.git
